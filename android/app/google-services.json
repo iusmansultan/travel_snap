@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982903609660",
+    "project_id": "travel-snap-c60fc",
+    "storage_bucket": "travel-snap-c60fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982903609660:android:64748ce4141a75152a6639",
+        "android_client_info": {
+          "package_name": "com.travels_map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMhs_ouJWEx2l1bpxHHIyRFetGvPPkkzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
